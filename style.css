@@ -143,6 +143,10 @@ button img {
 }
 
 @media (min-width: 720px) {
+    html {
+        zoom: 78%
+    }
+    
     #badge-img {
         top: 105px;
         left: 35px;
